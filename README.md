@@ -1,1 +1,1 @@
-# Lab-1-LAW-Go
+# Lab-1-LAW-Gin
